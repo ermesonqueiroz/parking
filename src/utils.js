@@ -18,10 +18,7 @@ export function getPlateLabel(plateInitials, data) {
         .find(([, intervals]) => {
             return intervals
                 .map(interval => interval.map(initialsToNumber))
-                .find(([start, end]) => {
-                    console.log(start, end)
-                    return plateValue >= start && plateValue <= end
-                })
+                .find(([start, end]) => plateValue >= start && plateValue <= end)
         })
         .at(0)
 }
