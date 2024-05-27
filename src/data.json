@@ -1,0 +1,223 @@
+{
+  "Paraná": [
+    ["AAA", "BEZ"],
+    ["RHA", "RHZ"]
+  ],
+  "São Paulo": [
+    ["BFA", "GKI"],
+    ["QSN", "QSZ"],
+    ["SAV", "SAV"]
+  ],
+  "Minas Gerais": [
+    ["GKJ", "HOK"],
+    ["NXX", "NYG"],
+    ["OLO", "OMH"],
+    ["OOV", "ORC"],
+    ["OWH", "OXK"],
+    ["PUA", "PZZ"],
+    ["QMQ", "QQZ"],
+    ["QUA", "QUZ"],
+    ["QWR", "QXZ"],
+    ["RFA", "RGD"],
+    ["RMD", "RNZ"]
+  ],
+  "Maranhão": [
+    ["HOL", "HQE"],
+    ["NHA", "NHT"],
+    ["NMP", "NNI"],
+    ["NWS", "NXQ"],
+    ["OIR", "OJQ"],
+    ["OXQ", "OXZ"],
+    ["PSA", "PTZ"],
+    ["ROA", "ROZ"]
+  ],
+  "Mato Grosso do Sul": [
+    ["HQF", "HTW"],
+    ["NRF", "NSD"],
+    ["OOG", "OOU"],
+    ["QAA", "QAZ"],
+    ["REW", "REZ"]
+  ],
+  "Ceará": [
+    ["HTX", "HZA"],
+    ["NQL", "NRE"],
+    ["NUM", "NVF"],
+    ["OCB", "OCU"],
+    ["OHX", "OIQ"],
+    ["ORN", "OSV"],
+    ["OZA", "OZA"],
+    ["PMA", "POZ"],
+    ["RIA", "RIN"]
+  ],
+  "Sergipe": [
+    ["HZB", "IAP"],
+    ["NVG", "NVN"],
+    ["OEJ", "OES"],
+    ["OZB", "OZB"],
+    ["QKN", "QKZ"],
+    ["QMA", "QMP"]
+  ],
+  "Rio Grande do Sul": [["IAQ", "JDO"]],
+  "Distrito Federal": [
+    ["JDP", "JKR"],
+    ["OVM", "OVV"],
+    ["OZW", "PBZ"],
+    ["REC", "REV"]
+  ],
+  "Bahia": [
+    ["JKS", "JSZ"],
+    ["NTD", "NTW"],
+    ["NYH", "NZZ"],
+    ["OKI", "OLG"],
+    ["OUF", "OVD"],
+    ["OZC", "OZV"],
+    ["PJA", "PLZ"],
+    ["QTU", "QTZ"],
+    ["RCO", "RDR"]
+  ],
+  "Pará": [
+    ["JTA", "JWE"],
+    ["NSE", "NTC"],
+    ["OBT", "OCA"],
+    ["OFI", "OFW"],
+    ["OSW", "OTZ"],
+    ["QDA", "QEZ"],
+    ["QVA", "QVZ"]
+  ],
+  "Amazonas": [
+    ["JWF", "JXY"],
+    ["NOI", "NPB"],
+    ["OAA", "OAO"],
+    ["OXM", "OXM"],
+    ["PHA", "PHZ"],
+    ["QZA", "QZZ"]
+  ],
+  "Mato Grosso": [
+    ["JXZ", "KAU"],
+    ["NIY", "NJW"],
+    ["NPC", "NPQ"],
+    ["NTX", "NUG"],
+    ["OAP", "OBS"],
+    ["QBA", "QCZ"],
+    ["RAK", "RAZ"]
+  ],
+  "Goiás": [
+    ["KAV", "KFC"],
+    ["NFC", "NGZ"],
+    ["NJX", "NLU"],
+    ["NVO", "NWR"],
+    ["OGH", "OHA"],
+    ["OMI", "OOF"],
+    ["PQA", "PRZ"],
+    ["QTN", "QTS"],
+    ["RBK", "RCN"]
+  ],
+  "Pernambuco": [
+    ["KFD", "KME"],
+    ["NXU", "NXW"],
+    ["OYL", "OYZ"],
+    ["PCA", "PED"],
+    ["PEE", "PFQ"],
+    ["PFR", "PGK"],
+    ["PGL", "PGU"],
+    ["PGV", "PGZ"],
+    ["QYA", "QYZ"],
+    ["RPA", "RQL"]
+  ],
+  "Rio de Janeiro": [
+    ["KMF", "LVE"],
+    ["RIO", "RIO"],
+    ["RIP", "RKV"]
+  ],
+  "Piauí": [
+    ["LVF", "LWQ"],
+    ["NHU", "NIX"],
+    ["ODU", "OEI"],
+    ["OUA", "OUE"],
+    ["OVW", "OVY"],
+    ["PIA", "PIZ"],
+    ["QRN", "QRZ"]
+  ],
+  "Santa Catarina": [
+    ["LWR", "MMM"],
+    ["OKD", "OKH"],
+    ["QHA", "QJZ"],
+    ["QTK", "QTM"],
+    ["RAA", "RAJ"],
+    ["RDS", "REB"],
+    ["RKW", "RLP"]
+  ],
+  "Paraíba": [
+    ["MMN", "MOW"],
+    ["NPR", "NQK"],
+    ["OET", "OFH"],
+    ["OFX", "OGG"],
+    ["OXO", "OXO"],
+    ["QFA", "QFZ"],
+    ["QSA", "QSM"],
+    ["RLQ", "RMC"]
+  ],
+  "Espírito Santo": [
+    ["MOX", "MTZ"],
+    ["OCV", "ODT"],
+    ["OVE", "OVF"],
+    ["OVH", "OVL"],
+    ["OYD", "OYK"],
+    ["PPA", "PPZ"],
+    ["QRB", "QRM"],
+    ["RBA", "RBJ"],
+    ["RQM", "RQZ"]
+  ],
+  "Alagoas": [
+    ["MUA", "MVK"],
+    ["NLV", "NMO"],
+    ["OHB", "OHK"],
+    ["ORD", "ORM"],
+    ["OXN", "OXN"],
+    ["QLA", "QLM"],
+    ["QTT", "QTT"],
+    ["QWG", "QWL"],
+    ["RGO", "RGZ"]
+  ],
+  "Tocatins": [
+    ["MVL", "MXG"],
+    ["OLH", "OLN"],
+    ["OYA", "OYC"],
+    ["QKA", "QKM"],
+    ["QWA", "QWF"],
+    ["RSA", "RSJ"]
+  ],
+  "Rio Grande do Norte": [
+    ["MXH", "MZM"],
+    ["NNJ", "NOH"],
+    ["OJR", "OKC"],
+    ["OVZ", "OWG"],
+    ["QGA", "QGZ"],
+    ["RGE", "RGM"],
+    ["RGN", "RGN"]
+  ],
+  "Acre": [
+    ["MZN", "NAG"],
+    ["NXR", "NXT"],
+    ["OVG", "OVG"],
+    ["OXP", "OXP"],
+    ["QLU", "QLZ"],
+    ["QWM", "QWQ"]
+  ],
+  "Roraima": [
+    ["NAH", "NBA"],
+    ["NUH", "NUL"]
+  ],
+  "Rondônia": [
+    ["NBB", "NEH"],
+    ["OHL", "OHW"],
+    ["OXL", "OXL"],
+    ["QRA", "QRA"],
+    ["QTA", "QTJ"],
+    ["RSU", "RSZ"]
+  ],
+  "Amapá": [
+    ["NEI", "NFB"],
+    ["QLN", "QLT"]
+  ]
+}
