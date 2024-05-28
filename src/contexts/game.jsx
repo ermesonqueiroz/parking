@@ -36,7 +36,7 @@ export function GameContextProvider({ children }) {
         's': keyListeners.down
       }
 
-      keyToListener[key]?.call()
+      keyToListener[key.toLowerCase()]?.call()
     }
 
     socket.on('update', handleOnUpdate);
